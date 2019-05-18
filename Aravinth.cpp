@@ -1,3 +1,5 @@
+//Algorithm for Iterative Merge Sort
+
 #include<stdlib.h> 
 #include<stdio.h> 
   
